@@ -77,11 +77,12 @@
 
   <!-- Row 1 -->
   <tr>
-    <td align="center"><img src="what is data science.png" width="200px"/><br/><sub><b>What is Data Science?</b></sub></td>
-    <td align="center"><img src="tool_data science.png" width="200px"/><br/><sub><b>Tools for Data Science</b></sub></td>
-    <td align="center"><img src="data science methodology.png" width="200px"/><br/><sub><b>Data Science Methodology</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>Python for Data Science</b></sub></td>
-    <td align="center"><img src="python for datra sciednce.png" width="200px"/><br/><sub><b>  PYTHON PROJECTS FOR DATA SCIENCE</b></sub></td>
+    <td align="center"><img src="python1.png.png" width="200px"/><br/><sub><b>Fundamentals of Python Part 1</b></sub></td>
+    <td align="center"><img src="python2.png.png" width="200px"/><br/><sub><b>Fundamentals of Python Part 2</b></sub></td>
+    <td align="center"><img src="nxtwave.png.png" width="200px"/><br/><sub><b>Open AI</b></sub></td>
+    <td align="center"><img src="lcat.png.png" width="200px"/><br/><sub><b>LCAT exam</b></sub></td>
+    <td align="center"><img src="html5.png.png" width="200px"/><br/><sub><b>Fundamentals of HTML</b></sub></td>
+    <td align="center"><img src="css3.png.png" width="200px"/><br/><sub><b>What is CSS3?</b></sub></td>
   </tr>
 
   <!-- Row 2 -->
