@@ -135,6 +135,6 @@ LEETCODE
 </p>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/output/github-snake.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshgaur/anshgaur/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshgaur/anshgaur/output/github-snake.svg"><img alt="github commit snake" src="https://raw.githubusercontent.com/anshgaur/anshgaur/output/github-snake.svg"></picture>
 
-<img src="https://raw.githubusercontent.com/anshxgaur/anshxgaur/main/github-metrics.svg" alt="GitHub Metrics">
+<img src="https://raw.githubusercontent.com/anshgaur/anshgaur/main/github-metrics.svg" alt="GitHub Metrics">
