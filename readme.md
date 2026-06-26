@@ -18,7 +18,7 @@
   <a href="https://github.com/aditisharma46">
     <img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/aditsharma">
+  <a href="https://www.linkedin.com/in/aditisharma">
     <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
